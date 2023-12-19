@@ -1,12 +1,12 @@
 import React from "react";
 import { View, Text } from "react-native";
 
-const Modal = () => {
+const Feed = () => {
   return (
     <View>
-      <Text>Modal</Text>
+      <Text>Feed</Text>
     </View>
   );
 };
 
-export default Modal;
+export default Feed;
